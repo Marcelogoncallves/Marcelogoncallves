@@ -13,7 +13,7 @@
   <img align="center" alt="Marcelo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Marcelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="right" alt="Marcelo-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CTFjaq7MTlrpn9byMgC1fbZLOPGjiHF5Nlv3980/">
+  <img align="right" alt="Marcelo-pic" height="150" style="border-radius:50px;" src="https://github.com/Marcelogoncallves/Marcelogoncallves/blob/master/WhatsApp%20Image%202022-01-05%20at%2016.13.19.jpeg">
 </div>
   
   ##
